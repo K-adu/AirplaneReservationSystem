@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1543998716 source:c:\users\manish baral\desktop\airplane\main.cpp
+	<iomanip>
+	<iostream>
+	<conio.h>
+	<string>
+	<windows.h>
+	<fstream>
+
